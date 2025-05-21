@@ -8,7 +8,7 @@ m0 is a lightweight, open-source AI tool designed to provide flexible solutions 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/m0
+git clone https://github.com/brandoz2255/m0
 ```
 2. Navigate the directory 
 
