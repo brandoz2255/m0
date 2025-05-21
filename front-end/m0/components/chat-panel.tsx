@@ -1,5 +1,8 @@
 "use client"
 
+
+// future changes we need too add a changeable list of  AI models
+
 import type React from "react"
 
 import { useState, useRef, useEffect } from "react"
